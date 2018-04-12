@@ -14,7 +14,7 @@
 
 ---
 Github Users:
-  - kalinux
+  - gangsta
   - kvarak
   - velith
 ---
