@@ -22,7 +22,7 @@ By adding your checkbox, Speaker is approving DevOps Skåne Meetup group guideli
 - [x] Ewelina Wilkosz, Let's talk CI/CD and DevOps with Jenkins. Interested in Multi-branch pipeline
 - [x] Fredrik Stål, Closing the Gaps with DevOps
 - [x] Jahid Shohel, 101 Docker and Kubernetes
-- [ ] Sami, GitOps your kubernetes deployments with Helm and Helmsman
+- [ ] Sami Alajrami, GitOps your kubernetes deployments with Helm and Helmsman
 
 ## Maintainers
 
