@@ -4,6 +4,8 @@ Repository for meetup information and presentations regarding the DevOps Skåne 
 
 ## Meetups and presentations
 
+- *2019-02-18* - Monitoring Docker Containers in Kubernetes by Karen Har-yan
+- *2018-10-30* - Get hands on experience with Red Hat's Kubernetes distribution, OpenShift by Magnus Glatz
 - *2018-10-23* - Evening of Monitoring/Prometheus in Lund by Karen Har-yan and Fredrik Stål
 - *2018-10-10* - GitOps your kubernetes deployments with Helm and Helmsman by Sami Alajrami
 - *2018-06-11* - 101 Docker and Kubernetes by Jahid Shohel
@@ -16,6 +18,7 @@ Repository for meetup information and presentations regarding the DevOps Skåne 
 ## Speakers
 
 By adding your checkbox, Speaker is approving DevOps Skåne Meetup group guidelines for speakers, guidelines can be found [here](guidelines.pdf)
+
 - [x] Karen Har-Yan, Kubernetes Basics
 - [x] Magnus Glantz, WOW! Learn Ansible automation with Red Hat.
 - [x] Albert Rigo, Let's talk CI/CD and DevOps with Jenkins. Interested in Multi-branch pipeline
@@ -23,6 +26,8 @@ By adding your checkbox, Speaker is approving DevOps Skåne Meetup group guideli
 - [x] Fredrik Stål, Closing the Gaps with DevOps
 - [x] Jahid Shohel, 101 Docker and Kubernetes
 - [x] Sami, GitOps your kubernetes deployments with Helm and Helmsman
+- [x] Magnus Glantz, Get hands on experience with Red Hat's Kubernetes distribution, OpenShift
+- [x] Karen Har-Yan, Monitoring Docker Containers in Kubernetes
 
 ## Maintainers
 
