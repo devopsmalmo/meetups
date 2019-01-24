@@ -1,6 +1,6 @@
-# DevOps Skåne meetups
+# DevOps Malmö meetups
 
-Repository for meetup information and presentations regarding the DevOps Skåne Meetup group.
+Repository for meetup information and presentations regarding the DevOps Malmö Meetup group.
 
 ## Meetups and presentations
 
@@ -17,7 +17,7 @@ Repository for meetup information and presentations regarding the DevOps Skåne 
 
 ## Speakers
 
-By adding your checkbox, Speaker is approving DevOps Skåne Meetup group guidelines for speakers, guidelines can be found [here](guidelines.pdf)
+By adding your checkbox, Speaker is approving DevOps Malmö Meetup group guidelines for speakers, guidelines can be found [here](guidelines.pdf)
 
 - [x] Karen Har-Yan, Kubernetes Basics
 - [x] Magnus Glantz, WOW! Learn Ansible automation with Red Hat.
