@@ -31,7 +31,7 @@ By adding your checkbox, Speaker is approving DevOps Malmö Meetup group guideli
 - [x] Magnus Glantz, Get hands on experience with Red Hat's Kubernetes distribution, OpenShift
 - [x] Karen Har-Yan, Monitoring Docker Containers in Kubernetes
 - [ ] Simon Vikström, How Containers In Linux Works
-- [ ] Thomas Watson, Logs, Metrics, and APM: The Holy Trinity of Operations
+- [x] Thomas Watson, Logs, Metrics, and APM: The Holy Trinity of Operations
 
 ## Maintainers
 
