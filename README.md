@@ -5,7 +5,7 @@ Repository for meetup information and presentations regarding the DevOps Malmö 
 ## Meetups and presentations
 
 - *2019-03-18* - Logs, Metrics, and APM: The Holy Trinity of Operations by Thomas Watson
-- *2019-02-25* - How Containers In Linux Works by Simon Vikström
+- *2019-02-25* - How Containers Work In Linux by Simon Vikström
 - *2019-02-18* - Monitoring Docker Containers in Kubernetes by Karen Har-yan
 - *2018-10-30* - Get hands on experience with Red Hat's Kubernetes distribution, OpenShift by Magnus Glatz
 - *2018-10-23* - Evening of Monitoring/Prometheus in Lund by Karen Har-yan and Fredrik Stål
@@ -30,7 +30,7 @@ By adding your checkbox, Speaker is approving DevOps Malmö Meetup group guideli
 - [x] Sami, GitOps your kubernetes deployments with Helm and Helmsman
 - [x] Magnus Glantz, Get hands on experience with Red Hat's Kubernetes distribution, OpenShift
 - [x] Karen Har-Yan, Monitoring Docker Containers in Kubernetes
-- [ ] Simon Vikström, How Containers In Linux Works
+- [ ] Simon Vikström, How Containers Work In Linux
 - [x] Thomas Watson, Logs, Metrics, and APM: The Holy Trinity of Operations
 
 ## Maintainers
