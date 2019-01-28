@@ -30,7 +30,7 @@ By adding your checkbox, Speaker is approving DevOps Malmö Meetup group guideli
 - [x] Sami, GitOps your kubernetes deployments with Helm and Helmsman
 - [x] Magnus Glantz, Get hands on experience with Red Hat's Kubernetes distribution, OpenShift
 - [x] Karen Har-Yan, Monitoring Docker Containers in Kubernetes
-- [ ] Simon Vikström, How Containers Work In Linux
+- [x] Simon Vikström, How Containers Work In Linux
 - [x] Thomas Watson, Logs, Metrics, and APM: The Holy Trinity of Operations
 
 ## Maintainers
