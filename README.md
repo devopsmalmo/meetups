@@ -4,6 +4,7 @@ Repository for meetup information and presentations regarding the DevOps Malmö 
 
 ## Meetups and presentations
 
+- *2019-03-26* - Hardcore Learning by Göran Bakken
 - *2019-03-18* - Logs, Metrics, and APM: The Holy Trinity of Operations by Thomas Watson
 - *2019-02-25* - How Containers Work In Linux by Simon Vikström
 - *2019-02-18* - Monitoring Docker Containers in Kubernetes by Karen Har-yan
@@ -32,6 +33,7 @@ By adding your checkbox, Speaker is approving DevOps Malmö Meetup group guideli
 - [x] Karen Har-Yan, Monitoring Docker Containers in Kubernetes
 - [x] Simon Vikström, How Containers Work In Linux
 - [x] Thomas Watson, Logs, Metrics, and APM: The Holy Trinity of Operations
+- [x] Göran Bakken, Hardcore Learning
 
 ## Maintainers
 
