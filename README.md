@@ -4,6 +4,7 @@ Repository for meetup information and presentations regarding the DevOps Malmö 
 
 ## Meetups and presentations
 
+- *2019-04-08* - SCM and DevOps by LArs Bendix and Christian Pendleton
 - *2019-03-26* - Hardcore Learning by Göran Bakken
 - *2019-03-18* - Logs, Metrics, and APM: The Holy Trinity of Operations by Thomas Watson
 - *2019-02-25* - How Containers Work In Linux by Simon Vikström
@@ -34,6 +35,8 @@ By adding your checkbox, Speaker is approving DevOps Malmö Meetup group guideli
 - [x] Simon Vikström, How Containers Work In Linux
 - [x] Thomas Watson, Logs, Metrics, and APM: The Holy Trinity of Operations
 - [x] Göran Bakken, Hardcore Learning
+- [x] Lars Bendix, SCM and DevOps
+- [x] Christian Pendleton, SCM and DevOps
 
 ## Maintainers
 
