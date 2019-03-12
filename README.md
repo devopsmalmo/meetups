@@ -4,6 +4,7 @@ Repository for meetup information and presentations regarding the DevOps Malmö 
 
 ## Meetups and presentations
 
+- *2019-05-20* - Infrastructure automation with Puppet by Kevin Reeuwijk
 - *2019-04-08* - SCM and DevOps by LArs Bendix and Christian Pendleton
 - *2019-03-26* - Hardcore Learning by Göran Bakken
 - *2019-03-18* - Logs, Metrics, and APM: The Holy Trinity of Operations by Thomas Watson
@@ -37,6 +38,7 @@ By adding your checkbox, Speaker is approving DevOps Malmö Meetup group guideli
 - [x] Göran Bakken, Hardcore Learning
 - [x] Lars Bendix, SCM and DevOps
 - [x] Christian Pendleton, SCM and DevOps
+- [x] Kevin Reeuwijk, Infrastructure automation with Puppet
 
 ## Maintainers
 
