@@ -41,7 +41,7 @@ By adding your checkbox, Speaker is approving DevOps Malmö Meetup group guideli
 - [x] Lars Bendix, SCM and DevOps
 - [x] Christian Pendleton, SCM and DevOps
 - [x] Kevin Reeuwijk, Infrastructure automation with Puppet
-- [ ] Damien DUPORTAL, Look Ma’, a Dynamic Edge Proxy with HTTP, TCP and no Hands!
+- [x] Damien DUPORTAL, Look Ma’, a Dynamic Edge Proxy with HTTP, TCP and no Hands!
 - [ ] Mattias Pernhult, SRE vs DevOps
 
 ## Maintainers
