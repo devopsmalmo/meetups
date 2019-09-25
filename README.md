@@ -47,7 +47,7 @@ By adding your checkbox, Speaker is approving DevOps Malmö Meetup group guideli
 - [x] Damien DUPORTAL, Look Ma’, a Dynamic Edge Proxy with HTTP, TCP and no Hands!
 - [x] Mattias Pernhult, SRE vs DevOps
 - [x] Jonas Ahnstedt, Google Cloud Platform
-- [ ] Stephen Rodriguez, Introduction to Golang for DevOps 
+- [x] Stephen Rodriguez, Introduction to Golang for DevOps 
 - [ ] Lars Kronfält, Use DevOps ways and architect strategies to run a 100k footrace
 
 ## Maintainers
