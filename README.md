@@ -5,7 +5,7 @@
 
 ## Meetups and Talks
 
-By adding your checkbox, Speaker is approving DevOps Malmö Meetup group guidelines for speakers, guidelines can be found [here](guidelines.pdf).
+By adding your checkbox, you are approving DevOps Malmö Meetup group guidelines for speakers, guidelines can be found [here](guidelines.pdf).
 
 
 - [x] *2019-11-04* - Introduction to Golang for DevOps by Stephen Rodriguez
@@ -14,7 +14,7 @@ By adding your checkbox, Speaker is approving DevOps Malmö Meetup group guideli
 - [x] *2019-09-24* - SRE vs DevOps by Mattias Pernhult
 - [x] *2019-09-09* - Look Ma’, a Dynamic Edge Proxy with HTTP, TCP and no Hands! by Damien DUPORTAL
 - [x] *2019-05-20* - Infrastructure automation with Puppet by Kevin Reeuwijk
-- [x] *2019-04-08* - SCM and DevOps by LArs Bendix and Christian Pendleton
+- [x] *2019-04-08* - SCM and DevOps by Lars Bendix and Christian Pendleton
 - [x] *2019-03-26* - Hardcore Learning by Göran Bakken
 - [x] *2019-03-18* - Logs, Metrics, and APM: The Holy Trinity of Operations by Thomas Watson
 - [x] *2019-02-25* - How Containers Work In Linux by Simon Vikström
@@ -41,7 +41,7 @@ Create PR to Repository with Following Changes:
 - Add Checkbox, Date, Topic and Name in above List.
   - With Presentation Link    - [x] *2018-01-15* - [Basic Kubernetes](https://linktopresentation.com) by [Karen Har-yan](talks/Karen-Haryan.md)
   - Without Presentation Link - [x] *2018-01-15* - Basic Kubernetes by [Karen Har-yan](talks/Karen-Haryan.md)
-- Note! Meetups should differ at least 2 weeks. (No Meetups from December 15 - January 15, June 10 - August 31) 
+- Note! Meetups should differ at least 2 weeks. (No Meetups from December 15 - January 15, June 10 - August 31)
 
 ## Maintainers
 
