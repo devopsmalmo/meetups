@@ -1,6 +1,6 @@
 # DevOps Malmö Talk Request
-By adding Account details and/or Personal infromation, You give Permission to share your infromation to Public Repository.
-Including Share on Social Media Platforms such as Meetup.com, Twtter.com, Linkedin.com.
+By adding account details and/or Personal information, You give permission to share your information to the public repository.
+Including sharing on social media such as Meetup.com, Twtter, Linkedin, etc.
 > Note! Please don't share any Email addresses.
 
 ## Speaker Info
@@ -25,31 +25,32 @@ Including Share on Social Media Platforms such as Meetup.com, Twtter.com, Linked
 
 **Abstract:**
 In modern times almost every application is running in Docker, by having such complex solutions to orchestrate Docker,
-monitoring becomes more complex and near to unsolvable tackle. Let's brake this steriotipe and get some easy Monitoring tools
-and Monitor our Docker Kubernetes solution with Prometheus. In Presentation we are going to cover how to monitor Docker 
+monitoring becomes more complex and near unsolvable to tackle. Let's brake this stereotype and get some easy Monitoring tools
+and Monitor our Docker Kubernetes solution with Prometheus. In this presentation we are going to cover how to monitor Docker
 in Kubernetes and how to get notified (in Slack) when something goes wrong.
 
 **Bio:**
-Karen Har-yan SRE/DevOps Engineer at Boozt:
+Karen Har-yan.
+SRE/DevOps Engineer at Boozt.
 Organizer of Malmö HashiCorp User Group and DevOps Malmö.
 More bio ...
 
 ### Meta
 
 How many people will do talk?
-- [x] 1 Person (Recomended)
+- [x] 1 Person (Recommended)
 - [ ] 2 Persons
-- [ ] 3 or more (Not Recomended)
+- [ ] 3 or more (Not Recommended)
 
 How long will your talk be?
-- [x] 40-45 minutes (Recomended)
+- [x] 40-45 minutes (Recommended)
 - [ ] 45-90 minutes
-- [ ] 90 minutes or more (Not Recomended)
+- [ ] 90 minutes or more (Not Recommended)
 
 Do you need help crafting your talk?
 - [ ] Yes
 - [x] No
 
-Do you need specific adapter to connect to projector? We Provide HDMI and DP.
+Do you need specific adapter to connect to projector? We provide HDMI and DP.
 - [ ] Yes
 - [x] No
