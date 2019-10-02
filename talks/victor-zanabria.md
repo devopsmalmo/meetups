@@ -21,7 +21,7 @@ Including sharing on social media such as Meetup.com, Twtter, Linkedin, etc.
 
 **Date**: Tuesday, 19 November 2019
 
-**Topic:** Kubernetes Architecture for Beginners
+**Topic:** Kubernetes Architecture 101
 
 **Abstract:**
 Kubernetes (k8s) is the most popular container orchestration system without a doubt. Every day tons of new k8s clusters are created and new k8s practitioners are born. Unfortunately, the excitement of getting straight to the practice usually comes together with a lack of a clear understanding of the k8s architecture, which is very helpful at the begining of any kubernetes implementation project.
