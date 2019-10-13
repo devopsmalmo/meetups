@@ -54,6 +54,6 @@ Do you need specific adapter to connect to projector? We provide HDMI and DP.
 - [ ] Yes
 - [x] No
 
-Venue to Host Meetup 
+Venue to Host Meetup.
 - [x] FooCafe
 - [ ] Other

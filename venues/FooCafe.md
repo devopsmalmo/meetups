@@ -27,7 +27,7 @@ Including sharing on social media such as Meetup.com, Twtter, Linkedin, etc.
 
 **Venue Web Page:** https://foocafe.org
 
-**Venue Address:** Stora Varvsgatan 6 A, 211 19 Malmö
+**Venue Address:** Stora Varvsgatan 6 A, 211 19 Malmö.
 
 Notes:
 * Some Presentation or Talks can include Sales, Not forcing Members to use, just giving awareness of enterprise solutions.
