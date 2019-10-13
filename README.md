@@ -43,6 +43,19 @@ Create PR to Repository with Following Changes:
   - With Presentation Link    - [x] *2018-01-15* - [Basic Kubernetes](https://linktopresentation.com) by [Karen Har-yan](talks/Karen-Haryan.md)
   - Without Presentation Link - [x] *2018-01-15* - Basic Kubernetes by [Karen Har-yan](talks/Karen-Haryan.md)
 - Note! Meetups should differ at least 2 weeks. (No Meetups from December 15 - January 15, June 10 - August 31)
+- Good To Know:
+  - Temporary 45 Minute Talk is only option.
+
+## How to Request Venue
+
+Create PR to Repository with Following Changes:
+
+- New file at **venues** folder. Example below\`
+```sh
+  cp venues/FooCafe.md venues/NewVenueName.md
+```
+- Make sure you have adjusted **venues/NewVenueName.md** file.
+- Make sure you have added new venue in **talks/example.md** file.
 
 ## Maintainers
 
