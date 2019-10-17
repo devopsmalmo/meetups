@@ -44,7 +44,7 @@ Create PR to Repository with Following Changes:
   - Without Presentation Link - [x] *2018-01-15* - Basic Kubernetes by [Karen Har-yan](talks/Karen-Haryan.md)
 - Note! Meetups should differ at least 2 weeks. (No Meetups from December 15 - January 15, June 10 - August 31)
 - Good To Know:
-  - Temporary 45 Minute Talk is only option.
+  - Temporarily we can only allow 45 minute talks.
 
 ## How to Request Venue
 
