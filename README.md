@@ -5,7 +5,7 @@
 
 ## Meetups and Talks
 
-By adding your checkbox, you are approving DevOps Malmö Meetup group guidelines for speakers, guidelines can be found [here](guidelines.pdf).
+By adding your checkbox, you are approving [DevOps Malmö Meetup group guidelines for speakers](guidelines.md).
 
 
 - [x] *2019-11-19* - Kubernetes Architecture 101 by Victor Zanabria
