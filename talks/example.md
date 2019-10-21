@@ -44,8 +44,7 @@ How many people will do talk?
 
 How long will your talk be?
 - [x] 40-45 minutes (Recommended)
-- [ ] 45-90 minutes
-- [ ] 90 minutes or more (Not Recommended)
+- [ ] 45+ minutes or more (Not Recommended)
 
 Do you need help crafting your talk?
 - [ ] Yes
@@ -54,3 +53,7 @@ Do you need help crafting your talk?
 Do you need specific adapter to connect to projector? We provide HDMI and DP.
 - [ ] Yes
 - [x] No
+
+Venue to Host Meetup.
+- [x] FooCafe
+- [ ] Other
