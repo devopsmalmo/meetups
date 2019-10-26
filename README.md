@@ -10,7 +10,7 @@ By adding your checkbox, you are approving DevOps Malmö Meetup group guidelines
 
 - [x] *2019-11-19* - Kubernetes Architecture 101 by Victor Zanabria
 - [x] *2019-11-04* - Introduction to Golang for DevOps by Stephen Rodriguez
-- [ ] *2019-10-21* - Use DevOps ways and architect strategies to run a 100k footrace by Lars Kronfält
+- [x] *2019-10-21* - Use DevOps ways and architect strategies to run a 100k footrace by Lars Kronfält
 - [x] *2019-10-09* - Google Cloud Platform by Jonas Ahnstedt
 - [x] *2019-09-24* - SRE vs DevOps by Mattias Pernhult
 - [x] *2019-09-09* - Look Ma’, a Dynamic Edge Proxy with HTTP, TCP and no Hands! by Damien DUPORTAL
