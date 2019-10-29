@@ -63,3 +63,15 @@ Github Users:
 - gangsta
 - kvarak
 - velith
+
+## Social Media
+
+DevOps Malmö Community Social Media Sites.
+
+ - [Meetup](https://www.meetup.com/DevOpsMalmo/)
+ - [Twitter](https://twitter.com/DevopsMalmo)
+ - [Facebook](https://www.facebook.com/groups/devopsmalmo/)
+ - [Instagram](https://www.instagram.com/devopsmalmo/)
+ - [Eventbrite](http://devopsmalmo.eventbrite.com/)
+ - Linkedin - Organizers Personal Linkedin Pages.
+ 
