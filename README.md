@@ -9,7 +9,7 @@ By adding your checkbox, you are approving [DevOps Malmö Meetup group guideline
 
 
 - [x] *2019-11-19* - Kubernetes Architecture 101 by Victor Zanabria
-- [x] *2019-11-04* - Introduction to Golang for DevOps by Stephen Rodriguez
+- [x] *2019-11-04* - [Introduction to Golang for DevOps](https://docs.google.com/presentation/d/1HiIKcAwCkYYhrBupiYXNmtjSC0svMvdWqLTbxL0WRw0/edit?usp=sharing) by Stephen Rodriguez
 - [x] *2019-10-21* - Use DevOps ways and architect strategies to run a 100k footrace by Lars Kronfält
 - [x] *2019-10-09* - Google Cloud Platform by Jonas Ahnstedt
 - [x] *2019-09-24* - SRE vs DevOps by Mattias Pernhult
@@ -74,4 +74,4 @@ DevOps Malmö Community Social Media Sites.
  - [Instagram](https://www.instagram.com/devopsmalmo/)
  - [Eventbrite](http://devopsmalmo.eventbrite.com/)
  - Linkedin - Organizers Personal Linkedin Pages.
- 
+
