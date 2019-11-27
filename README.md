@@ -7,7 +7,7 @@
 
 By adding your checkbox, you are approving [DevOps Malmö Meetup group guidelines for speakers](guidelines.md).
 
-
+- [x] *2020-01-14* - What the Heck...Round-1: Student In Production by Karen Har-yan
 - [x] *2019-11-19* - [Kubernetes Architecture 101](https://1drv.ms/b/s!AkfPlO3svI6PiWlbWNo_y3XAXpbY?e=mazgQo) by Victor Zanabria
 - [x] *2019-11-04* - [Introduction to Golang for DevOps](https://docs.google.com/presentation/d/1HiIKcAwCkYYhrBupiYXNmtjSC0svMvdWqLTbxL0WRw0/edit?usp=sharing) by Stephen Rodriguez
 - [x] *2019-10-21* - Use DevOps ways and architect strategies to run a 100k footrace by Lars Kronfält
