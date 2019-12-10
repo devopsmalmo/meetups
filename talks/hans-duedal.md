@@ -14,7 +14,7 @@
 
 **Meetup Group**: DevOps Malmö
 
-**Date**: TBD, 01 TBD 20xx
+**Date**: Tuesday, 28th January 2020
 
 **Topic:** Istio In Production
 
@@ -55,6 +55,5 @@ Do you need specific adapter to connect to projector? We provide HDMI and DP.
 - [x] No
 
 Venue to Host Meetup.
-- [x] TBD
-- [ ] FooCafe
+- [x] FooCafe
 - [ ] Other
