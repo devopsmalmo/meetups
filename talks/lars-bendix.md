@@ -34,10 +34,10 @@ Join me on this wild and bumpy voyage of discovery into the marvellous worlds of
 Lars Bendix is an associate professor at Lund University. His main research interest is software configuration management and how it can be used to support various software development processes and different contexts - and he teaches an academic course on software configuration management.
 
 **Agenda:**
-17:30 - 17:45 Meet & Greet
-17:45 - 18:30 assertEquals(SCM, DevOps)=True?
-18:30 - 18:50 Pizza&Drinks
-18:50 - 19:50 QA/Continue Discussion assertEquals(SCM, DevOps)=True?
+17:30 - 17:45 Meet & Greet<br/>
+17:45 - 18:30 assertEquals(SCM, DevOps)=True?<br/>
+18:30 - 18:50 Pizza&Drinks<br/>
+18:50 - 19:50 QA/Continue Discussion assertEquals(SCM, DevOps)=True?  
 
 ### Meta
 
