@@ -23,17 +23,17 @@ Including sharing on social media such as Meetup.com, Twtter, Linkedin, etc.
 
 **Topic:** assertEquals(SCM, DevOps)=True?
 
-**Abstract:**
+**Abstract:**<br/>
 Searching on the internet you can find almost anything – even people claiming that Software Configuration Management and DevOps is the same thing. At first sight this claim was so obviously absurd that it tickled my curiosity. It should be a no-brainer to prove him wrong – it turned out not to be so.
 
 One thing is old-fashioned and bureaucratic intended to control changes – the other modern and light-weight intended to get changes into production as fast as possible. How could they possibly be the same thing? However, when you look at their goals and what they are trying to obtain, maybe they are not that different at all. Maybe they have more things in common than things that divide them.
 
 Join me on this wild and bumpy voyage of discovery into the marvellous worlds of SCM and DevOps. Let us together try to explore how far “altern” was right and where we can still see them as two distinct things – and what we can learn along the way about both SCM and DevOps.
 
-**Bio:**
+**Bio:**<br/>
 Lars Bendix is an associate professor at Lund University. His main research interest is software configuration management and how it can be used to support various software development processes and different contexts - and he teaches an academic course on software configuration management.
 
-**Agenda:**
+**Agenda:**<br/>
 17:30 - 17:45 Meet & Greet<br/>
 17:45 - 18:30 assertEquals(SCM, DevOps)=True?<br/>
 18:30 - 18:50 Pizza&Drinks<br/>
