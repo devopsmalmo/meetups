@@ -35,6 +35,12 @@ SRE/DevOps Engineer at Boozt.
 Organizer of Malmö HashiCorp User Group and DevOps Malmö.
 More bio ...
 
+**Agenda:**
+17:30 - 17:45 Meet & Greet
+17:45 - 18:30 101 Docker Monitoring in Kubernetes
+18:30 - 18:50 Pizza&Drinks
+18:50 - 19:30 QA/Continue Discussion
+
 ### Meta
 
 How many people will do talk?
