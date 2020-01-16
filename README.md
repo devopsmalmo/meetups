@@ -8,6 +8,7 @@
 By adding your checkbox, you are approving [DevOps Malmö Meetup group guidelines for speakers](guidelines.md).
 
 - [x] *2020-02-25* - GitOps in action, powered by Alexa by Jimmy Dahlqvist
+- [x] *2020-02-10* - assertEquals(SCM, DevOps)=True? by Lars Bendix
 - [x] *2020-01-28* - Istio in Production by Hans Duedal
 - [x] *2020-01-14* - What the Heck...Round-1: Student In Production by Karen Har-yan
 - [x] *2019-11-19* - [Kubernetes Architecture 101](https://1drv.ms/b/s!AkfPlO3svI6PiWlbWNo_y3XAXpbY?e=mazgQo) by Victor Zanabria
