@@ -7,7 +7,7 @@
 
 By adding your checkbox, you are approving [DevOps Malmö Meetup group guidelines for speakers](guidelines.md).
 
-- [x] *2020-03-25* - Introducing Jenkins X by [Hardy Ferentschik](talks/hardy-ferentschik.md))
+- [x] *2020-03-25* - Introducing Jenkins X by [Hardy Ferentschik](talks/hardy-ferentschik.md)
 - [x] *2020-02-25* - GitOps in action, powered by Alexa by Jimmy Dahlqvist
 - [x] *2020-02-10* - assertEquals(SCM, DevOps)=True? by Lars Bendix
 - [x] *2020-01-28* - Istio in Production by Hans Duedal
