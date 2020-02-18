@@ -19,7 +19,7 @@ Including sharing on social media such as Meetup.com, Twtter, Linkedin, etc.
 
 **Topic:** Introducing Jenkins X
 
-**Abstract:**
+**Abstract:**<br/>
 Jenkins X is a project which rethinks how developers interact with CI/CD in the cloud.
 Its focus lies on making development teams productive through automation, tooling and DevOps best practices.
 
@@ -27,15 +27,15 @@ As developer you can type one command like `jx create` or `jx import` and get yo
 
 Let's see how!
 
-**Agenda:**
-17:30 - 17:45 Meet & Greet
-17:45 - 18:30 Introducing Jenkins X
-18:30 - 18:50 Pizza&Drinks
-18:50 - 19:30 QA/Continue Discussion
-
-**Bio:**
+**Bio:**<br/>
 Polyglot software craftsman with deep roots in the Open Source community.
 Currently working for CloudBees on Jenkins X, the Open Source CI/CD solution for Kubernetes.
+
+**Agenda:**<br/>
+17:30 - 17:45 Meet & Greet<br/>
+17:45 - 18:30 Introducing Jenkins X<br/>
+18:30 - 18:50 Pizza&Drinks<br/>
+18:50 - 19:50 QA/Continue Discussion
 
 ### Meta
 
