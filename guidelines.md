@@ -13,7 +13,7 @@ For each presentation, guidelines are needed in order to maintain the highest qu
     - No selling from stage (no commercial subjects, no promotion for products, no advertisement)
     - Have a demo of product/solution (video demos are not accepted).
     - If presentation doesn't contain real demo, presentation should be approved by at least two organizers.
-    - Speaker should be available after talk another 45 minutes to be able to answer question from the crowd in the venue. Remote presentation are **not** accepted.
+    - Speaker should be available after talk another 45 minutes to be able to answer question from the crowd in the venue. During COVID-19, remote presentations are an option.
     - Make sure all material is be provided before or after the meetup (slides, Git repositories, etc) to all members of Devops Malmö (can be shared link to source in Meetup.com).
 1. Quality of demo and slides.
     - You are allowed to use any tools to present slides and to do demo.
