@@ -15,6 +15,7 @@ No date is currently known, we will update Readme once we know more.
 
 By adding your checkbox, you are approving [DevOps Malmö Meetup group guidelines for speakers](guidelines.md).
 
+- [x] *2021-03-09* - Automation is Hard and we are doing it wrong
 - [x] *2020-03-25* - Introducing Jenkins X by [Hardy Ferentschik](talks/hardy-ferentschik.md)
 - [x] *2020-02-25* - GitOps in action, powered by Alexa by Jimmy Dahlqvist
 - [x] *2020-02-10* - assertEquals(SCM, DevOps)=True? by Lars Bendix
@@ -40,6 +41,7 @@ By adding your checkbox, you are approving [DevOps Malmö Meetup group guideline
 - [x] *2018-04-09* - [Learn Ansible automation with Red Hat](https://goo.gl/ThoJBB) by Magnus Glatz
 - [x] *2018-02-20* - [DevOps Skåne - introduction for students](https://goo.gl/K5sbk7) by Karen Har-yan, Fredrik Stål and Albert Rigo
 - [x] *2018-01-15* - [Basic Kubernetes](https://goo.gl/GTHwyi) by Karen Har-yan
+
 
 
 ## How to Request Talk
