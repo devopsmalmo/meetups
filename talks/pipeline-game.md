@@ -20,7 +20,7 @@ Twtter, Linkedin, etc.
 
 **Meetup Group**: DevOps Malmö
 
-**Date**: Tuesday, 01 October 2019
+**Date**: Thursday, 15 April 2021
 
 **Topic:** Improve your CI/CD pipeline with the
 pipeline game
