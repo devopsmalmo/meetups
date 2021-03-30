@@ -15,6 +15,7 @@ No date is currently known, we will update Readme once we know more.
 
 By adding your checkbox, you are approving [DevOps Malmö Meetup group guidelines for speakers](guidelines.md).
 
+- [X] *2021-04-13* - Improve your CI/CD pipeline with the pipeline game [Sofus Albertsen](talks/pipeline-game.md)
 - [x] *2021-03-09* - Automation is Hard and we are doing it wrong [Johan Abildskov](talks/johan-abildskov.md)
 - [x] *2020-03-25* - Introducing Jenkins X by [Hardy Ferentschik](talks/hardy-ferentschik.md)
 - [x] *2020-02-25* - GitOps in action, powered by Alexa by Jimmy Dahlqvist
