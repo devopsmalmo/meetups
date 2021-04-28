@@ -1,6 +1,6 @@
 # DevOps Malmö Talk Request
 By adding account details and/or Personal information, You give permission to share your information to the public repository.
-Including sharing on social media such as Meetup.com, Twtter, Linkedin, etc.
+Including sharing on social media such as Meetup.com, Twitter, Linkedin, etc.
 > Note! Please don't share any Email addresses.
 
 ## Speaker Info
@@ -25,7 +25,7 @@ Including sharing on social media such as Meetup.com, Twtter, Linkedin, etc.
 
 **Abstract:**<br/>
 In modern times almost every application is running in Docker, by having such complex solutions to orchestrate Docker,
-monitoring becomes more complex and near unsolvable to tackle. Let's brake this stereotype and get some easy Monitoring tools
+monitoring becomes more complex and near unsolvable to tackle. Let's break this stereotype and get some easy Monitoring tools
 and Monitor our Docker Kubernetes solution with Prometheus. In this presentation we are going to cover how to monitor Docker
 in Kubernetes and how to get notified (in Slack) when something goes wrong.
 
@@ -38,12 +38,12 @@ More bio ...
 **Agenda:**<br/>
 17:30 - 17:45 Meet & Greet<br/>
 17:45 - 18:30 101 Docker Monitoring in Kubernetes<br/>
-18:30 - 18:50 Pizza&Drinks<br/>
+18:30 - 18:50 Pizza & Drinks<br/>
 18:50 - 19:30 QA/Continue Discussion
 
 ### Meta
 
-How many people will do talk?
+How many people will talk?
 - [x] 1 Person (Recommended)
 - [ ] 2 Persons
 - [ ] 3 or more (Not Recommended)
@@ -56,7 +56,7 @@ Do you need help crafting your talk?
 - [ ] Yes
 - [x] No
 
-Do you need specific adapter to connect to projector? We provide HDMI and DP.
+Do you need a specific adapter to connect to the projector? We provide HDMI and DP.
 - [ ] Yes
 - [x] No
 
