@@ -28,4 +28,4 @@ For each presentation, guidelines are needed to maintain the highest quality ava
     - It’s okay not to know everything.
     - Be honest, inclusive, and respectful.
     - Respect for all regardless of nationality, religion, culture, gender, etc.
-    - English is the language we use in communication/presentation/slides/information.
+    - English is the main language we use for communication, presentation, slides, and information.
