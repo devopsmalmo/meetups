@@ -20,14 +20,14 @@ Including sharing on social media such as Meetup.com, Twtter, Linkedin, etc.
 **Topic:** Lessons learned - Short story about measuring DevOps performance
 
 **Abstract:**<br/>
-Have you ever wondered that life would be great if you could visualize the gains and values of working in a DevOps culture? Do you want to spend time in putting numbers in how better your team and/or organizartion is performing if you follow the DevOps principles? I did both of these things and it was not as easy as one might first think. This talk is a short story about the difficulties I encountered along this journey. Also, an oportunity to share some lessons learned as well as useful tips, should you also like to do something similar.
+Have you ever wondered that life would be great if you could visualize the gains and values of working in a DevOps culture? Do you want to spend time putting numbers on how better your team and/or organization is performing if you follow the DevOps principles? I did both of these things and it was not as easy as one might first think. This talk is a short story about the difficulties I encountered along this journey. Also, an opportunity to share some lessons learned as well as useful tips, should you also like to do something similar.
 
 **Bio:**<br/>
 Fredrik Stål.
 DevOps Engineer at INGKA IKEA.
 Co-organizer of DevOps Malmö.
 
-Fredrik is working as a DevOps Engineer at INGKA IKEA where he helps out teams developing their DevOps culture. Before IKEA he worked with teams at different companies, helping them developing their Continuous Delivery culture. Kind-of the same? What he mostly does is to assist in the automation of repetetive tasks that is part of software development. He believes the working environment becoming much more enjoyable the less time you spend on error prone and manual tasks.
+Fredrik is working as a DevOps Engineer at INGKA IKEA where he helps out teams developing their DevOps culture. Before IKEA he worked with teams at different companies, helping them develop their Continuous Delivery culture. Kind-of the same? What he mostly does is to assist in the automation of repetitive tasks that is part of software development. He believes the working environment becomes much more enjoyable the less time you spend on error prone and manual tasks.
 
 **Agenda:**<br/>
 
