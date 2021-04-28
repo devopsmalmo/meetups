@@ -7,7 +7,9 @@
 
 For each presentation, guidelines are needed in order to maintain the highest quality available. In this document key elements are described on the quality of a presentation in a meetup. In order to also involve other parties either by letting them host a meetup in our meetup or letting them speak (presentation), below described tasks should be approved by at least one of organizers Devops Malmö.
 
-1. Quality and subject of the presentations.    - During COVID-19, only remote presentations are accepted.    - Check the subject/presentation in advance by Devops Malmö organizers.
+1. Quality and subject of the presentations.    
+    - During COVID-19, only remote presentations are accepted.
+    - Check the subject/presentation in advance by Devops Malmö organizers.
     - Maximum time is agreed with organizers. Keep the time. Really, keep the time.
     - No selling from stage (no commercial subjects, no promotion for products, no advertisement)
     - Have a demo of product/solution from presentation - pre-created video demos are not acceptable, Unless one of organizers approves it .
