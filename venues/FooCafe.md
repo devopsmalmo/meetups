@@ -1,6 +1,6 @@
 # DevOps Malmö Venue Request
 By adding account details and/or Personal information, You give permission to share your information to the public repository.
-Including sharing on social media such as Meetup.com, Twtter, Linkedin, etc.
+Including sharing on social media such as Meetup.com, Twitter, Linkedin, etc.
 > Note! Please don't share any Email addresses.
 
 ## Venue Info
@@ -19,7 +19,7 @@ Including sharing on social media such as Meetup.com, Twtter, Linkedin, etc.
 
 **Marketing:** Yes: Helping With Marketing Activities, Social Media Promotion.
 
-**Branding:** No issues with group logo, branding, 3rd party logo's and small sales activities.*
+**Branding:** No issues with group logo, branding, 3rd party logos and small sales activities.*
 
 **Venue Availability:** Unlimited. (Options are: One time, Few times per Year, Unlimited)
 

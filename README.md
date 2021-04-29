@@ -3,10 +3,10 @@
 - Repository for requesting DevOps Malmö Meetup talk.
 - This Repository Contains Meetups and Speakers Information For DevOps Malmö Meetup Group.
 
-# Meetups are Temporary Canceled due to (COVID-19)
+## On-site Meetups are Temporary Canceled due to (COVID-19)
 
-To take care of our Members and Health of people around us, We decided to go safe and protect our Community.
-We will monitor *The Public Health Agency of Sweden - Folkhälsomyndigheten* and update for next meetups.
+To take care of our Members and the Health of people around us, We decided to go safe and protect our Community.
+We will monitor *The Public Health Agency of Sweden - Folkhälsomyndigheten* and update for next on-site meetups.
 No date is currently known, we will update Readme once we know more.
 
 - We will host only *Online Meetups*.
@@ -44,23 +44,21 @@ By adding your checkbox, you are approving [DevOps Malmö Meetup group guideline
 - [x] *2018-02-20* - [DevOps Skåne - introduction for students](https://goo.gl/K5sbk7) by Karen Har-yan, Fredrik Stål and Albert Rigo
 - [x] *2018-01-15* - [Basic Kubernetes](https://goo.gl/GTHwyi) by Karen Har-yan
 
-
-
 ## How to Request Talk
 
 Create PR to Repository with Following Changes:
 
-- New file at **talks** folder. Example below\`
+- New file at **talks** folder. The example below\`
 ```sh
   cp talks/example.md talks/Name-Surname.md
 ```
 - Make sure you have adjusted **talks/Name-Surname.md** file.
-- Add Checkbox, Date, Topic and Name in above List.
+- Add Checkbox, Date, Topic, and Name in above List.
   - With Presentation Link    - [x] *2018-01-15* - [Basic Kubernetes](https://linktopresentation.com) by [Karen Har-yan](talks/Karen-Haryan.md)
   - Without Presentation Link - [x] *2018-01-15* - Basic Kubernetes by [Karen Har-yan](talks/Karen-Haryan.md)
 - Note! Meetups should differ at least 2 weeks. (No Meetups from December 15 - January 15, June 10 - August 31)
 - Good To Know:
-  - Temporarily we can only allow 45 minute talks.
+  - Temporarily we can only allow 45-minute talks.
 
 ## How to Request Venue
 
@@ -71,7 +69,7 @@ Create PR to Repository with Following Changes:
   cp venues/FooCafe.md venues/NewVenueName.md
 ```
 - Make sure you have adjusted **venues/NewVenueName.md** file.
-- Make sure you have added new venue in **talks/example.md** file.
+- Make sure you have added a new venue in **talks/example.md** file.
 
 ## Maintainers
 
