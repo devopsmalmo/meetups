@@ -25,10 +25,8 @@
 **Topic:** Implementing GitOps best practices with Crossplane and ArgoCD
 
 **Abstract:**<br/>
-In modern times almost every application is running in Docker, by having such complex solutions to orchestrate Docker,
-monitoring becomes more complex and near unsolvable to tackle. Let's break this stereotype and get some easy Monitoring tools
-and Monitor our Docker Kubernetes solution with Prometheus. In this presentation we are going to cover how to monitor Docker
-in Kubernetes and how to get notified (in Slack) when something goes wrong.
+GitOps is a rising modern software delivery practice of using Git as a single source of truth for all of our resources. This allows for advanced and rapid continuous integration/continuous deployment processes through tools such as ArgoCD.But what about managing not just your app code in Git, but infrastructure as well? GitOps allows for best practices around infrastructure management too. In this session, Anaïs will showcase getting started with Crossplane, a tool to manage your entire infrastructure through Kubernetes-based resources. After providing an overview of the goals that GitOps-based tools help us achieve, we will explore Crossplane further. The demo will show you how to get started with Crossplane, all the way to creating and managing a Kubernetes cluster on Civo through GitOps.
+
 
 **Bio:**<br/>
 Anaïs is a Site Reliability Engineer at Civo, a cloud computing company based on Kubernetes. 
