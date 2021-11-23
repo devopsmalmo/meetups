@@ -15,6 +15,7 @@ No date is currently known, we will update Readme once we know more.
 
 By adding your checkbox, you are approving [DevOps Malmö Meetup group guidelines for speakers](guidelines.md).
 
+- [X] *2021-12-06* - A Simple Explanation of secure MAIL and DNS TXT Role it [Simon Stridsberg](talks/simon-stridsberg.md)
 - [X] *2021-11-08* - Implementing GitOps best practices with Crossplane and ArgoCD [Anais Urlichs](talks/anais-urlichs.md)
 - [X] *2021-05-19* - Lessons Learned - Short story about measuring DevOps performance [Fredrik Stål](talks/fredrik-metrics.md)
 - [X] *2021-04-15* - Improve your CI/CD pipeline with the pipeline game [Sofus Albertsen](talks/pipeline-game.md)
