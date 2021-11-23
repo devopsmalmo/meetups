@@ -13,7 +13,7 @@ Including sharing on social media such as Meetup.com, Twitter, Linkedin, etc.
 
 **Date**: Monday, 06 December 2021
 
-**Topic:** A Simple Explanation of secure MAIL and DNS TXT Role it
+**Topic:** A Simple Explanation of secure MAIL and DNS TXT Role in it
 
 **Abstract:**<br/>
 Where mail and DNS TXT meet.
