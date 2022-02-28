@@ -15,7 +15,7 @@ No date is currently known, we will update Readme once we know more.
 
 By adding your checkbox, you are approving [DevOps Malmö Meetup group guidelines for speakers](guidelines.md).
 
-- [x] *2022-01-20* - Introducing rule-based refactoring [Christian Clausen](talks/christian-clausen.md)
+- [x] *2022-04-07* - Introducing rule-based refactoring [Christian Clausen](talks/christian-clausen.md)
 - [x] *2022-03-02* - Principles for Designing and Deploying Scalable Applications on Kubernetes [Lars Larsson](talks/lars-larsson.md)
 - [x] *2022-01-20* - Introducing rule-based refactoring [Christian Clausen](talks/christian-clausen.md) (postponed due to COVID-19 restrictions)
 - [X] *2021-12-06* - A Simple Explanation of SPF, DKIM and DMARC and its Role for Email [Simon Stridsberg](talks/simon-stridsberg.md)
