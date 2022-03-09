@@ -3,14 +3,6 @@
 - Repository for requesting DevOps Malmö Meetup talk.
 - This Repository Contains Meetups and Speakers Information For DevOps Malmö Meetup Group.
 
-## On-site Meetups are Temporary Canceled due to (COVID-19)
-
-To take care of our Members and the Health of people around us, We decided to go safe and protect our Community.
-We will monitor *The Public Health Agency of Sweden - Folkhälsomyndigheten* and update for next on-site meetups.
-No date is currently known, we will update Readme once we know more.
-
-- We will host only *Online Meetups*.
-
 ## Meetups and Talks
 
 By adding your checkbox, you are approving [DevOps Malmö Meetup group guidelines for speakers](guidelines.md).
