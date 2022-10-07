@@ -7,6 +7,7 @@
 
 By adding your checkbox, you are approving [DevOps Malmö Meetup group guidelines for speakers](guidelines.md).
 
+- [x] *2022-11-17* - How to Operate a Secure Kubernetes Platform by [Cristian Klein](talks/cristian-klein.md)
 - [x] *2022-05-04* - Managing multiple Kubernetes clusters with Terraform and ArgoCD [Jacob Lärfors](talks/jacob-larfors.md)
 - [x] *2022-04-07* - Introducing rule-based refactoring [Christian Clausen](talks/christian-clausen.md)
 - [x] *2022-03-02* - Principles for Designing and Deploying Scalable Applications on Kubernetes [Lars Larsson](talks/lars-larsson.md)
