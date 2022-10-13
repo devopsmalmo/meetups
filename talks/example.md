@@ -61,7 +61,7 @@ Do you need a specific adapter to connect to the projector? We provide HDMI and 
 - [x] No
 
 Venue to Host Meetup.
-- [x] FooCafe   
+- [x] FooCafe
 - [ ] Other
 
 Live streaming of presentation if available.
