@@ -42,6 +42,11 @@ Lead Google Cloud Architect at Devoteam Denmark.
 Google Cloud and HashiCorp Certified Engineer.
 Organizer: HashiCorp Malmö | DevOps Malmö | DevOps Copenhagen
 
+**Agenda:**<br/>
+17:30 - 17:45 Meet & Greet<br/>
+17:45 - 18:30 Get Started with HashiCorp Vault<br/>
+18:30 - 18:50 Pizza & Drinks<br/>
+18:50 - 19:30 QA/Continue Discussion
 
 ### Meta
 
