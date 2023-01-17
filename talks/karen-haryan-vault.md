@@ -21,7 +21,7 @@ Including sharing on social media such as Meetup.com, Twitter, Linkedin, etc.
 
 **Date**: Wednesday, 08 February 2023
 
-**Topic:** Get started with Hashicrop Vault
+**Topic:** Get started with HashiCorp Vault
 
 **Abstract:**
 HashiCorp Vault is an identity-based secrets and encryption management system.
@@ -33,13 +33,13 @@ I will walk you through how to set up the vault dev environment, and speak about
 * Authentication, Authorization, and Identity with Vault
 * Vault UI
 
-The presentation will be a combination of slides and demos, to make sure we also get hands-on experience with Hashicorp Vault.
+The presentation will be a combination of slides and demos, to make sure we also get hands-on experience with HashiCorp Vault.
 
 
 **Bio:**
 Karen Har-yan.
 Lead Google Cloud Architect at Devoteam Denmark.
-Google Cloud and Hashicrop Certified Engineer.
+Google Cloud and HashiCorp Certified Engineer.
 Organizer: HashiCorp Malmö | DevOps Malmö | DevOps Copenhagen
 
 
