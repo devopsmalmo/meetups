@@ -19,7 +19,7 @@ Including sharing on social media such as Meetup.com, Twitter, Linkedin, etc.
 
 **Meetup Group**: DevOps Malmö
 
-**Date**: Wednesday, 08 February 2023
+**Date**: Wednesday, 15 February 2023
 
 **Topic:** Get started with HashiCorp Vault
 
