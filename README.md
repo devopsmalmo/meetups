@@ -7,6 +7,7 @@
 
 By adding your checkbox, you are approving [DevOps Malmö Meetup group guidelines for speakers](guidelines.md).
 
+- [x] *2023-03-07* - The full story of Software Bill of Materials (SBoM) by [Lars Bendix](talks/lars_bendix_andreas_goransson.md)
 - [x] *2023-02-15* - Get Started with Hashicorp Vault by [Karen Har-yan](talks/karen-haryan-vault.md)
 - [x] *2022-11-29* - How hard can it be to lookup a name in DNS by [Christian Elmerot & Simon Stridsberg](talks/elmerot-stridsberg.md)
 - [x] *2022-11-17* - How to Operate a Secure Kubernetes Platform by [Cristian Klein](talks/cristian-klein.md)
