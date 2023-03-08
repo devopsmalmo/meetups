@@ -1,5 +1,5 @@
 # DevOps Malmö Talk Request
-By adding account details and/or Personal information, You give permission to share your information to the public repository.
+By adding account details and/or Personal Information, You permit to share your information with the public repository.
 Including sharing on social media such as Meetup.com, Twitter, Linkedin, etc.
 > Note! Please don't share any Email addresses.
 
