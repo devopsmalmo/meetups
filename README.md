@@ -7,6 +7,7 @@
 
 By adding your checkbox, you are approving [DevOps Malmö Meetup group guidelines for speakers](guidelines.md).
 
+- [x] *2023-05-25* - A 10-Year IKEA Odyssey: Insights and Takeaways from the Digital Frontier by [Karina Hallberg](talks/karina-hallberg.md)
 - [x] *2023-03-30* - Secure and Efficient Containerization - Get started with Podman by [Magnus Glatz](talks/magnus_glatz.md)
 - [x] *2023-03-07* - The full story of Software Bill of Materials (SBoM) by [Lars Bendix](talks/lars_bendix_andreas_goransson.md)
 - [x] *2023-02-15* - Get Started with Hashicorp Vault by [Karen Har-yan](talks/karen-haryan-vault.md)
