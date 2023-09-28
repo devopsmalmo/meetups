@@ -78,7 +78,7 @@ Create PR to Repository with Following Changes:
 ## Maintainers
 
 Github Users:
-- gangsta
+- gangsta [:o:01.10.2017 - 01.10.2023:x:]
 - kvarak
 - velith
 
@@ -88,8 +88,6 @@ DevOps Malmö Community Social Media Sites.
 
  - [Meetup](https://www.meetup.com/DevOpsMalmo/)
  - [Twitter](https://twitter.com/DevopsMalmo)
- - [Facebook](https://www.facebook.com/groups/devopsmalmo/)
  - [Instagram](https://www.instagram.com/devopsmalmo/)
- - [Eventbrite](http://devopsmalmo.eventbrite.com/)
  - Linkedin - Organizers Personal Linkedin Pages.
 
