@@ -78,9 +78,12 @@ Create PR to Repository with Following Changes:
 ## Maintainers
 
 Github Users:
-- gangsta [:o:01.10.2017 - 01.10.2023:x:]
+- ewelinawilkosz
 - kvarak
 - velith
+
+Honorable Mentions:
+- gangsta [01.10.2017 - 01.10.2023]
 
 ## Social Media
 
