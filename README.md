@@ -7,46 +7,48 @@
 
 By adding your checkbox, you are approving [DevOps Malmö Meetup group guidelines for speakers](guidelines.md).
 
-- [x] *2023-05-25* - A 10-Year IKEA Odyssey: Insights and Takeaways from the Digital Frontier by [Karina Hallberg](talks/karina-hallberg.md)
-- [x] *2023-03-30* - Secure and Efficient Containerization - Get started with Podman by [Magnus Glatz](talks/magnus_glatz.md)
-- [x] *2023-03-07* - The full story of Software Bill of Materials (SBoM) by [Lars Bendix](talks/lars_bendix_andreas_goransson.md)
-- [x] *2023-02-15* - Get Started with Hashicorp Vault by [Karen Har-yan](talks/karen-haryan-vault.md)
-- [x] *2022-11-29* - How hard can it be to lookup a name in DNS by [Christian Elmerot & Simon Stridsberg](talks/elmerot-stridsberg.md)
-- [x] *2022-11-17* - How to Operate a Secure Kubernetes Platform by [Cristian Klein](talks/cristian-klein.md)
-- [x] *2022-05-04* - Managing multiple Kubernetes clusters with Terraform and ArgoCD [Jacob Lärfors](talks/jacob-larfors.md)
-- [x] *2022-04-07* - Introducing rule-based refactoring [Christian Clausen](talks/christian-clausen.md)
-- [x] *2022-03-02* - Principles for Designing and Deploying Scalable Applications on Kubernetes [Lars Larsson](talks/lars-larsson.md)
-- [x] *2022-01-20* - Introducing rule-based refactoring [Christian Clausen](talks/christian-clausen.md) (postponed due to COVID-19 restrictions)
-- [X] *2021-12-06* - A Simple Explanation of SPF, DKIM and DMARC and its Role for Email [Simon Stridsberg](talks/simon-stridsberg.md)
-- [X] *2021-11-08* - Implementing GitOps best practices with Crossplane and ArgoCD [Anais Urlichs](talks/anais-urlichs.md)
-- [X] *2021-05-19* - Lessons Learned - Short story about measuring DevOps performance [Fredrik Stål](talks/fredrik-metrics.md)
-- [X] *2021-04-15* - Improve your CI/CD pipeline with the pipeline game [Sofus Albertsen](talks/pipeline-game.md)
-- [x] *2021-03-09* - Automation is Hard and we are doing it wrong [Johan Abildskov](talks/johan-abildskov.md)
-- [x] *2020-03-25* - Introducing Jenkins X by [Hardy Ferentschik](talks/hardy-ferentschik.md)
-- [x] *2020-02-25* - GitOps in action, powered by Alexa by Jimmy Dahlqvist
-- [x] *2020-02-10* - assertEquals(SCM, DevOps)=True? by Lars Bendix
-- [x] *2020-01-28* - Istio in Production by Hans Duedal
-- [x] *2020-01-14* - What the Heck...Round-1: Student In Production by Karen Har-yan
-- [x] *2019-11-19* - [Kubernetes Architecture 101](https://1drv.ms/b/s!AkfPlO3svI6PiWlbWNo_y3XAXpbY?e=mazgQo) by Victor Zanabria
-- [x] *2019-11-04* - [Introduction to Golang for DevOps](https://docs.google.com/presentation/d/1HiIKcAwCkYYhrBupiYXNmtjSC0svMvdWqLTbxL0WRw0/edit?usp=sharing) by Stephen Rodriguez
-- [x] *2019-10-21* - Use DevOps ways and architect strategies to run a 100k footrace by Lars Kronfält
-- [x] *2019-10-09* - Google Cloud Platform by Jonas Ahnstedt
-- [x] *2019-09-24* - SRE vs DevOps by Mattias Pernhult
-- [x] *2019-09-09* - Look Ma’, a Dynamic Edge Proxy with HTTP, TCP and no Hands! by Damien DUPORTAL
-- [x] *2019-05-20* - Infrastructure automation with Puppet by Kevin Reeuwijk
-- [x] *2019-04-08* - SCM and DevOps by Lars Bendix and Christian Pendleton
-- [x] *2019-03-26* - Hardcore Learning by Göran Bakken
-- [x] *2019-03-18* - Logs, Metrics, and APM: The Holy Trinity of Operations by Thomas Watson
-- [x] *2019-02-25* - How Containers Work In Linux by Simon Vikström
-- [x] *2019-02-18* - Monitoring Docker Containers in Kubernetes by Karen Har-yan
-- [x] *2018-10-30* - Get hands on experience with Red Hat's Kubernetes distribution, OpenShift by Magnus Glatz
-- [x] *2018-10-23* - Evening of Monitoring/Prometheus in Lund by Karen Har-yan and Fredrik Stål
-- [x] *2018-10-10* - GitOps your kubernetes deployments with Helm and Helmsman by Sami Alajrami
-- [x] *2018-06-11* - 101 Docker and Kubernetes by Jahid Shohel
-- [x] *2018-06-04* - Closing the Gaps with DevOps by Fredrik Stål
-- [x] *2018-04-09* - [Learn Ansible automation with Red Hat](https://goo.gl/ThoJBB) by Magnus Glatz
-- [x] *2018-02-20* - [DevOps Skåne - introduction for students](https://goo.gl/K5sbk7) by Karen Har-yan, Fredrik Stål and Albert Rigo
-- [x] *2018-01-15* - [Basic Kubernetes](https://goo.gl/GTHwyi) by Karen Har-yan
+| ☑️ | Date | Presenter | Title |
+|---|------|-----------|-------|
+| [x] | *2023-05-25* | [Karina Hallberg](talks/karina-hallberg.md) | A 10-Year IKEA Odyssey: Insights and Takeaways from the Digital Frontier |
+| [x] | *2023-03-30* | [Magnus Glatz](talks/magnus_glatz.md) | Secure and Efficient Containerization - Get started with Podman |
+| [x] | *2023-03-07* | [Lars Bendix](talks/lars_bendix_andreas_goransson.md) | The full story of Software Bill of Materials (SBoM) |
+| [x] | *2023-02-15* | [Karen Har-yan](talks/karen-haryan-vault.md) | Get Started with Hashicorp Vault |
+| [x] | *2022-11-29* | [Christian Elmerot & Simon Stridsberg](talks/elmerot-stridsberg.md) | How hard can it be to lookup a name in DNS |
+| [x] | *2022-11-17* | [Cristian Klein](talks/cristian-klein.md) | How to Operate a Secure Kubernetes Platform |
+| [x] | *2022-05-04* | [Jacob Lärfors](talks/jacob-larfors.md) | Managing multiple Kubernetes clusters with Terraform and ArgoCD |
+| [x] | *2022-04-07* | [Christian Clausen](talks/christian-clausen.md) | Introducing rule-based refactoring |
+| [x] | *2022-03-02* | [Lars Larsson](talks/lars-larsson.md) | Principles for Designing and Deploying Scalable Applications on Kubernetes |
+| [x] | *2022-01-20* | [Christian Clausen](talks/christian-clausen.md) | Introducing rule-based refactoring (postponed due to COVID-19 restrictions) |
+| [x] | *2021-12-06* | [Simon Stridsberg](talks/simon-stridsberg.md) | A Simple Explanation of SPF, DKIM and DMARC and its Role for Email |
+| [x] | *2021-11-08* | [Anais Urlichs](talks/anais-urlichs.md) | Implementing GitOps best practices with Crossplane and ArgoCD |
+| [x] | *2021-05-19* | [Fredrik Stål](talks/fredrik-metrics.md) | Lessons Learned - Short story about measuring DevOps performance |
+| [x] | *2021-04-15* | [Sofus Albertsen](talks/pipeline-game.md) | Improve your CI/CD pipeline with the pipeline game |
+| [x] | *2021-03-09* | [Johan Abildskov](talks/johan-abildskov.md) | Automation is Hard and we are doing it wrong |
+| [x] | *2020-03-25* | [Hardy Ferentschik](talks/hardy-ferentschik.md) | Introducing Jenkins X |
+| [x] | *2020-02-25* | Jimmy Dahlqvist | GitOps in action, powered by Alexa |
+| [x] | *2020-02-10* | Lars Bendix | assertEquals(SCM, DevOps)=True? |
+| [x] | *2020-01-28* | Hans Duedal | Istio in Production |
+| [x] | *2020-01-14* | Karen Har-yan | What the Heck...Round-1: Student In Production |
+| [x] | *2019-11-19* | Victor Zanabria | [Kubernetes Architecture 101](https://1drv.ms/b/s!AkfPlO3svI6PiWlbWNo_y3XAXpbY?e=mazgQo) |
+| [x] | *2019-11-04* | Stephen Rodriguez | [Introduction to Golang for DevOps](https://docs.google.com/presentation/d/1HiIKcAwCkYYhrBupiYXNmtjSC0svMvdWqLTbxL0WRw0/edit?usp=sharing) |
+| [x] | *2019-10-21* | Lars Kronfält | Use DevOps ways and architect strategies to run a 100k footrace |
+| [x] | *2019-10-09* | Jonas Ahnstedt | Google Cloud Platform |
+| [x] | *2019-09-24* | Mattias Pernhult | SRE vs DevOps |
+| [x] | *2019-09-09* | Damien DUPORTAL | Look Ma’, a Dynamic Edge Proxy with HTTP, TCP and no Hands! |
+| [x] | *2019-05-20* | Kevin Reeuwijk | Infrastructure automation with Puppet |
+| [x] | *2019-04-08* | Lars Bendix and Christian Pendleton | SCM and DevOps |
+| [x] | *2019-03-26* | Göran Bakken | Hardcore Learning |
+| [x] | *2019-03-18* | Thomas Watson | Logs, Metrics, and APM: The Holy Trinity of Operations |
+| [x] | *2019-02-25* | Simon Vikström | How Containers Work In Linux |
+| [x] | *2019-02-18* | Karen Har-yan | Monitoring Docker Containers in Kubernetes |
+| [x] | *2018-10-30* | Magnus Glatz | Get hands on experience with Red Hat's Kubernetes distribution, OpenShift |
+| [x] | *2018-10-23* | Karen Har-yan and Fredrik Stål | Evening of Monitoring/Prometheus in Lund |
+| [x] | *2018-10-10* | Sami Alajrami | GitOps your kubernetes deployments with Helm and Helmsman |
+| [x] | *2018-06-11* | Jahid Shohel | 101 Docker and Kubernetes |
+| [x] | *2018-06-04* | Fredrik Stål | Closing the Gaps with DevOps |
+| [x] | *2018-04-09* | Magnus Glatz | [Learn Ansible automation with Red Hat](https://goo.gl/ThoJBB) |
+| [x] | *2018-02-20* | Karen Har-yan, Fredrik Stål and Albert Rigo | [DevOps Skåne - introduction for students](https://goo.gl/K5sbk7) |
+| [x] | *2018-01-15* | Karen Har-yan | [Basic Kubernetes](https://goo.gl/GTHwyi) |
 
 ## How to Request Talk
 
