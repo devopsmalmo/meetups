@@ -7,7 +7,7 @@
 
 By adding your checkbox, you are approving [DevOps Malmö Meetup group guidelines for speakers](guidelines.md).
 
-| ☑️ | Date | Presenter | Title |
+| ☑️ | Date | Presenter(s) | Title |
 |---|------|-----------|-------|
 | [x] | *2023-05-25* | [Karina Hallberg](talks/karina-hallberg.md) | A 10-Year IKEA Odyssey: Insights and Takeaways from the Digital Frontier |
 | [x] | *2023-03-30* | [Magnus Glatz](talks/magnus_glatz.md) | Secure and Efficient Containerization - Get started with Podman |
@@ -44,6 +44,7 @@ By adding your checkbox, you are approving [DevOps Malmö Meetup group guideline
 | [x] | *2018-10-30* | Magnus Glatz | Get hands on experience with Red Hat's Kubernetes distribution, OpenShift |
 | [x] | *2018-10-23* | Karen Har-yan and Fredrik Stål | Evening of Monitoring/Prometheus in Lund |
 | [x] | *2018-10-10* | Sami Alajrami | GitOps your kubernetes deployments with Helm and Helmsman |
+| [x] | *2018-07-05* | Ewelina Wilkosz | Let's talk CI/CD and DevOps with Jenkins. Interested in Multi-branch pipelines? |
 | [x] | *2018-06-11* | Jahid Shohel | 101 Docker and Kubernetes |
 | [x] | *2018-06-04* | Fredrik Stål | Closing the Gaps with DevOps |
 | [x] | *2018-04-09* | Magnus Glatz | [Learn Ansible automation with Red Hat](https://goo.gl/ThoJBB) |
