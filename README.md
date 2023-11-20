@@ -9,6 +9,7 @@ By adding your checkbox, you are approving [DevOps Malmö Meetup group guideline
 
 | ☑️ | Date | Presenter(s) | Title |
 |---|------|-----------|-------|
+| [x] | *2023-12-14* | [Magnus Glantz & Mathias Lindroth](talks/open-source-sweden.md) | Starting an Open Source Project - What you need to know |
 | [x] | *2023-05-25* | [Karina Hallberg](talks/karina-hallberg.md) | A 10-Year IKEA Odyssey: Insights and Takeaways from the Digital Frontier |
 | [x] | *2023-03-30* | [Magnus Glatz](talks/magnus_glatz.md) | Secure and Efficient Containerization - Get started with Podman |
 | [x] | *2023-03-07* | [Lars Bendix](talks/lars_bendix_andreas_goransson.md) | The full story of Software Bill of Materials (SBoM) |
