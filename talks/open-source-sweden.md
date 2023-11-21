@@ -33,9 +33,13 @@ This is an useful session for anyone:
 * who are curious of fundamentals which makes open source projects  
 
 **Bio:**<br/>
-![Magnus Glantz](magnusglantz.png)
+
+<img src="magnusglantz.png" alt="Magnus Glantz" width="30%"/>
+
 Magnus Glantz is a board member of Open Source Sweden, a published author and Principal Solution Architect at Red Hat with a focus on DevSecOps and automation technology.
-![Mathias Lindroth](mathiaslindroth.jpg)
+
+<img src="mathiaslindroth.jpg" alt="Mathias Lindroth" width="30%"/>
+
 Mathias Lindroth is a board member of Open Source Sweden. He is also a business lawyer, active for many years, including IT and intellectual property law. With a background as a lawyer and co-owner of a larger Malmö-based law firm, he today divides his time between his own firm, board assignments and, not least, research together with the Software Systems Research Group at the Department of Computer Science at the University of Skövde. 
 
 
