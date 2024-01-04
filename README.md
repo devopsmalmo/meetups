@@ -60,7 +60,7 @@ Create PR to Repository with Following Changes:
 ```sh
   cp talks/example.md talks/Name-Surname.md
 ```
-- Make sure you have adjusted **talks/Name-Surname.md** file.
+- Make sure you have adjusted **talks/Name-Surname.md** file. Note: please add a new file for each time you present, so that all your files exist at the same time. So for the second talk your file could be named **talks/Name-Surname-2.md**.
 - Add Checkbox, Date, Topic, and Name in above List.
   - With Presentation Link    - [x] *2018-01-15* - [Basic Kubernetes](https://linktopresentation.com) by [Karen Har-yan](talks/Karen-Haryan.md)
   - Without Presentation Link - [x] *2018-01-15* - Basic Kubernetes by [Karen Har-yan](talks/Karen-Haryan.md)
