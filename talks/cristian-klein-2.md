@@ -40,14 +40,14 @@ This talk will be about:
 
 **Bio:**<br/>
 
-<img src="cristian-klein.jpg" alt="Cristian Klein" />
+<img src="cristian-klein.jpg" width="40%" alt="Cristian Klein" />
 
 Cristian is the Compliant Kubernetes product owner at Elastisys.
 He reviews data protection regulations and security best practices, to translate those into Kubernetes and Cloud Native solutions.
 Cristian has gathered over 19 years of experience acting variously as an on-call network engineer, consultant, teacher and researcher.
 You can follow him on LinkedIn, where he posts about topics at the intersection of data protection and Kubernetes.
 
-<img src="lars-larsson.jpg" alt="Lars Larsson" />
+<img src="lars-larsson.jpg" width="40%" alt="Lars Larsson" />
 
 Lars is the Field CTO of Elastisys. 
 He is one of the original architects of Elastisys Compliant Kubernetes, and now spends a lot of his time evangelizing around Elastisys cloud native service offerings, understanding customer requirements, and making sure that development experience is top notch.
