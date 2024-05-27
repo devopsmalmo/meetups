@@ -9,6 +9,7 @@ By adding your checkbox, you are approving [DevOps Malmö Meetup group guideline
 
 | ☑️ | Date | Presenter(s) | Title |
 |---|------|-----------|-------|
+| [x] | *2024-03-26* | [Samuel A. Adewole](talks/Samuel-Adewole.md) | Navigating the Complexities of DevSecOps Adoption: Insights from a Cybersecurity Professional |
 | [x] | *2024-03-26* | [Jacob Lärfors](talks/jacob-larfors-from-devops-teams-to-platform-teams.md) | From DevOps Teams to Platform Teams: And what did we solve? |
 | [x] | *2024-03-05* | [Cristian Klein & Lars Larsson](talks/cristian-klein-2.md) | Developer experience in regulated industries - it doesn't actually suck! |
 | [x] | *2023-12-14* | [Magnus Glantz & Mathias Lindroth](talks/open-source-sweden.md) | Starting an Open Source Project - What you need to know ([Slides1](https://drive.google.com/file/d/1etHJ1USDCyjFGpNFb6pHtuvS1AcIgQjP/view?usp=drive_link), [Slides2](https://drive.google.com/file/d/1mJcqN0k5pdUXF9ug7Mi_wYfREdrqzuqu/view?usp=drive_link)) |
