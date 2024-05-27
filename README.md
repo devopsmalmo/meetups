@@ -60,12 +60,14 @@ By adding your checkbox, you are approving [DevOps Malmö Meetup group guideline
 Create PR to Repository with Following Changes:
 
 - New file at **talks** folder. The example below\`
+
 ```sh
   cp talks/example.md talks/Name-Surname.md
 ```
+
 - Make sure you have adjusted **talks/Name-Surname.md** file. Note: please add a new file for each time you present, so that all your files exist at the same time. So for the second talk your file could be named **talks/Name-Surname-2.md**.
 - Add Checkbox, Date, Topic, and Name in above List.
-  - With Presentation Link    - [x] *2018-01-15* - [Basic Kubernetes](https://linktopresentation.com) by [Karen Har-yan](talks/Karen-Haryan.md)
+  - With Presentation Link - [x] *2018-01-15* - [Basic Kubernetes](https://linktopresentation.com) by [Karen Har-yan](talks/Karen-Haryan.md)
   - Without Presentation Link - [x] *2018-01-15* - Basic Kubernetes by [Karen Har-yan](talks/Karen-Haryan.md)
 - Note! Meetups should differ at least 2 weeks. (No Meetups from December 15 - January 15, June 10 - August 31)
 - Good To Know:
@@ -76,28 +78,31 @@ Create PR to Repository with Following Changes:
 Create PR to Repository with Following Changes:
 
 - New file at **venues** folder. Example below\`
+
 ```sh
   cp venues/FooCafe.md venues/NewVenueName.md
 ```
+
 - Make sure you have adjusted **venues/NewVenueName.md** file.
 - Make sure you have added a new venue in **talks/example.md** file.
 
 ## Maintainers
 
 Github Users:
+
 - ewelinawilkosz
 - kvarak
 - velith
 
 Honorable Mentions:
+
 - gangsta [01.10.2017 - 01.10.2023]
 
 ## Social Media
 
 DevOps Malmö Community Social Media Sites.
 
- - [Meetup](https://www.meetup.com/DevOpsMalmo/)
- - [Twitter](https://twitter.com/DevopsMalmo)
- - [Instagram](https://www.instagram.com/devopsmalmo/)
- - Linkedin - Organizers Personal Linkedin Pages.
-
+- [Meetup](https://www.meetup.com/DevOpsMalmo/)
+- [Twitter](https://twitter.com/DevopsMalmo)
+- [Instagram](https://www.instagram.com/devopsmalmo/)
+- Linkedin - Organizers Personal Linkedin Pages.
