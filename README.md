@@ -9,6 +9,9 @@ By adding your checkbox, you are approving [DevOps Malmö Meetup group guideline
 
 | ☑️ | Date | Presenter(s) | Title |
 |---|------|-----------|-------|
+|   | *2024-11-27* | [Lars Bendix](talks/lars-bendix-2.md) | Introducing SCM to a young, agile start-up|
+|   | *2024-10-21* | [Emma Dahl Jeppesen & Dan Grøndahl](talks/emma-dahl-jeppesen-dan-grondahl.md) | 10 things we hate about platform engineering |
+|   | *2024-09-24* | [Lauri Suomalainen](talks/lauri-suomalainen.md) | Service Levels, Error budgets and why your dev teams should care |
 | [x] | *2024-05-29* | [Samuel A. Adewole](talks/Samuel-Adewole.md) | Navigating the Complexities of DevSecOps Adoption: Insights from a Cybersecurity Professional |
 | [x] | *2024-03-26* | [Jacob Lärfors](talks/jacob-larfors-from-devops-teams-to-platform-teams.md) | From DevOps Teams to Platform Teams: And what did we solve? |
 | [x] | *2024-03-05* | [Cristian Klein & Lars Larsson](talks/cristian-klein-2.md) | Developer experience in regulated industries - it doesn't actually suck! |

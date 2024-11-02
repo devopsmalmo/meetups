@@ -12,6 +12,9 @@
 
 **Date**: Friday, TBD May 2023
 
+**Photo:**
+![../imgs/karina-hallberg.png](../imgs/karina-hallberg.png)
+
 **Topic:** A 10-Year IKEA Odyssey: Insights and Takeaways from the Digital Frontier
 
 **Abstract:**<br/>

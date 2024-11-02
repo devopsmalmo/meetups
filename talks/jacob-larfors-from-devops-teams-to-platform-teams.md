@@ -20,6 +20,10 @@ Including sharing on social media such as Meetup.com, Twitter, Linkedin, etc.
 
 **Date**: Tuesday 30th January 2024
 
+**Photo:**
+![../imgs/jacob-larfors-from-devops-teams-to-platform-teams.png](../imgs/jacob-larfors-from-devops-teams-to-platform-teams.png)
+
+
 **Topic:** From DevOps Teams to Platform Teams and what did we solve?
 
 **Abstract:**<br/>
